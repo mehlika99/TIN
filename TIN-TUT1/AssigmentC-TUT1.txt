@@ -1,0 +1,19 @@
+<div class="article">
+    <div class="column">
+    <h1>Leaf vegetables</h1>
+      <p><img class="img1"src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Spinach_leaves.jpg" style="width:240px;height:240px;">
+      Leaf vegetables, also called leafy greens, salad greens, pot herbs, vegetable greens, or simply greens, are plant leaves eaten as a vegetable, sometimes accompanied by tender petioles and shoots. Although they come from a very wide variety of plants, most share a great deal with other leaf vegetables in nutrition and cooking methods.</p>
+      <p><img class="img2"src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kale-Bundle.jpg"  style="width:240px;height:240px;">
+      Nearly one thousand species of plants with edible leaves are known. Leaf vegetables most often come from short-lived herbaceous plants, such as lettuce and spinach. Woody plants of various species also provide edible leaves.</p>
+  </div>
+   <div class="column">
+      <p><img class="image2"src="https://whatmollymade.com/wp-content/uploads/2019/02/Green-juice-in-the-blender-21.jpg" style="width:240px;height:240px; ">
+      The leaves of many fodder crops are also edible for humans, but are usually only eaten under famine conditions. Examples include alfalfa, clover, most grasses, including wheat and barley. These plants are often much more prolific than traditional leaf vegetables, but exploitation of their rich nutrition is difficult, due to their high fiber content. This can be overcome by further processing such as drying and grinding into powder or pulping and pressing for juice.</p>
+      <p><img class="image1"src="https://images-prod.healthline.com/hlcmsresource/images/AN_images/spinach-1296x728-feature.jpg"  style="width:240px;height:240px; ">
+      Leaf vegetables contain many typical plant nutrients, but since they are photosynthetic tissues, their vitamin K levels are particularly notable. Phylloquinone, the most common form of the vitamin, is directly involved in photosynthesis.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
