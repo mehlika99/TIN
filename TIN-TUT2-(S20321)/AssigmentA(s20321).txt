@@ -1,0 +1,53 @@
+<!-- 1.Standard page skeleton (html, head, body etc.) -->
+<!DOCTYPE html>
+<html>
+<head>	
+	<title>Assignment A</title>
+	<meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="AssignmentB.css">
+</head>
+<body>
+  <form align="center">
+  <br>
+  <!-- Text input field -->
+    <h2>Text input field:</h2>
+     <label for="name"><b>Enter Your Name: </b></label><br>
+ <input type="text" id="email" name="email"><br><br>
+  <!-- Password field -->
+    <h2>Password field:</h2>
+    <label for="pwd"><b>Enter Your Password:</b></label><br>
+  <input type="password" id="pwd" name="pwd" minlength="8" required><br><br>
+  <!-- Checkbox -->
+  <input type="checkbox" id="save" name="save" value="pass">
+  <label for="save"> Save password</label><br>
+  <!-- Radiobutton group  -->
+  <h2>Radiobutton field:</h2>
+  <p><b>Choose your favorite food type:</b></p>
+  <input type="radio" id="vegetables" name="food type" value="vegetables">
+  <label for="vegetables">Veges</label><br>
+  <input type="radio" id="fruits" name="food type" value="fruits">
+  <label for="fruits">Fruits</label><br>
+  <input type="radio" id="grain" name="food type" value="grain">
+  <label for="grain">Grains</label>
+
+<!-- Dropdown list -->
+   <h2>Dropdown list field:</h2>
+   <label for="meal"><b>Choose a meal:</b></label><br><br>
+  <select name="meals" id="meals">
+    <option value="snack">Snack</option>
+    <option value="breakfast">Breakfast</option>
+    <option value="lunch">Lunch</option>
+    <option value="dinner">Dinner</option>
+  </select>
+  <br><br>
+  <!-- Text area -->
+  <h2>Text Area:</h2>
+    <label for="area"><b>Tell us about your daily meal routine: </b></label><br><br>
+  <textarea id="area" name="area" rows="5" cols="50">Write here your daily routine :)</textarea><br><br>
+  <!-- Submit and reset buttons -->
+  <button type="submit" value="Submit">Submit</button>
+  <button type="reset" value="Reset">Reset</button>
+</form>
+</body>
+</html>
+  

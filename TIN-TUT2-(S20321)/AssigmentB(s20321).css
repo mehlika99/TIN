@@ -1,0 +1,41 @@
+body {
+  background-color: lightblue;
+}
+input{
+    color: purple;
+    padding: 12px 20px;
+    border-radius: 10px;
+    background-color: #E2A4E7;
+    font-size:20px;
+    font-style: normal;
+    text-align: center;
+}
+select{ color: brown;
+        font-family:"Corbel",serif;
+}
+textarea{
+    color: blue;
+    background-color: lightgreen;
+
+}
+label,p{
+  font-size: 20px;
+  font-style: oblique;
+}
+:required {
+    background: yellow;
+}
+button{
+      background-color: orange;
+      width: 30%;
+      color: khaki;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: ridge;
+      border-radius: 10px;
+      cursor: pointer;
+      font-size: 20px
+}
+button:hover{
+    background-color: brown;
+}

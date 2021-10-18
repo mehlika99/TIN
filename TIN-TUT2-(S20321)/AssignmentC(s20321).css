@@ -1,0 +1,46 @@
+body{
+	background-color: #B3B6B7;
+}
+h1 {
+    margin: 3px;
+    text-align: center;
+}
+h3{
+    margin: 5px;
+    text-decoration: underline;
+}
+article {
+	margin-left: 30px;
+	font-size: 20px;
+    height: auto;
+    overflow: auto;
+}
+.container {
+	padding-top: 20px; 
+    padding-bottom: 20px;
+    margin: 0 auto;
+    width: 70vw;
+}
+
+img {
+    max-width: 90%;
+    border: 5px solid beige;
+    padding: 10px;  
+    display: block;
+    margin:auto;
+}
+article p{
+	background-color: #C8A2C8;
+	border: 5px solid #FFD700;
+	padding: 10px;
+}
+
+/* link visited */
+a:visited {
+    color: pink;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
