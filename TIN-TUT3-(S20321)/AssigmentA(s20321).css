@@ -1,0 +1,148 @@
+body{
+	background: lightgreen;
+    margin: 0;
+    background-color: lightgreen;
+    animation-name: title;
+    animation-duration: 5s;
+}
+
+header{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	margin: 20px auto;
+	color: green;
+	font-size: 1.5em;	
+	font-family: cursive;	
+}
+@keyframes title {
+  from {background-color: beige;}
+  to {background-color: lightblue;}
+}
+.imageheader{	
+	border-radius: 20%;
+	margin: 10px;
+	transform: rotate(-10deg);
+	box-shadow: 10px 10px 5px beige;
+	max-width: 500px;
+    min-width: 30rem;
+    filter: drop-shadow(10px 10px 4px lightblue);
+	
+}
+.container{
+	width: 150%;
+	display: flex;
+	justify-content: flex-start;
+	margin: 0 auto;
+}
+.gallery{
+	display: flex;
+	flex-direction: column;
+	max-width: 300px;
+	flex:1;
+}
+figure{
+	margin: 10px 10px;
+}
+.gallery img{
+	border-radius: 10px;
+	width: 100%;
+    filter: drop-shadow(5px 5px 4px lightblue);
+}
+figcaption{
+	color: orange;
+	text-align: center;
+    font-family: cursive;
+}
+p{
+	font-family: FreeMono, monospace;
+}
+.paragraph-container{
+	flex:2;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	flex-direction: row;
+
+}
+.paragraph{
+	max-width: 50%;
+	margin:5px;
+	
+}
+.paragraph img{
+	border-radius: 20px;
+	float: left;
+    max-width: 60%;
+    margin: 5px;
+}
+
+blockquote{
+	font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: hotpink;
+    width: 10%;
+    float:right;
+    margin:0 0 0 5px;
+}
+blockquote p{
+	font-family: 'Dancing Script', cursive;
+
+}
+
+footer { 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: center;
+   height: 50px;
+   font-family: Chalkduster, fantasy;
+   font-size: 1.5em;
+   padding: 10px;
+   background-color: lightblue;
+   animation-name: example;
+   animation-duration: 5s;
+
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+@media (max-width: 1300px ) {
+   
+    .paragraph{
+	max-width: 45%;
+	}
+}
+
+@media (max-width: 1100px ) {
+    
+  	.paragraph img{
+		max-width: 40%;
+	}
+    .paragraph{
+	max-width: 95%;
+	}
+}
+	
+@media (max-width: 800px ) {
+    .container {
+     flex-direction: column;
+    }
+    .gallery{
+    	order: 1;
+    }
+    .paragraph{
+	max-width: 100%;
+	}
+	.paragraph img{
+		max-width: 50%;
+	}
+}
+ 

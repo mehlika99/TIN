@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment A</title>
+	<link rel="stylesheet" type="text/css" href="AssigmentA(s20321).css">
+	 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<img class ="imageheader "src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUpSPWmstngMvz8vxhz1faRtCs78grId8fA&usqp=CAU" title="palm tree" alt="header palm photo">
+		<h1>Palm Tree</h1>
+	</header>
+	<main class="container">
+		<section class="gallery">
+			<figure>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9XaSkSWFPR_9qDCX_h2cvlx0Cbdy3SYccA&usqp=CAU" alt="9 types of Palm Tree">
+			<figcaption>9 types of Palm Tree</figcaption>
+			</figure>
+			<figure>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQId1AcEyCoBQPibiIPqt1F98YvFw1dsuCQ&usqp=CAU" width="350" alt="alm Tree in the sunset">
+			<figcaption>Palm Tree in the sunset</figcaption>
+			</figure>
+			<figure>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQn-6X93Wx2khcsY4uIbawOudCZgcaTOodA&usqp=CAU" width="350" alt="Palm Tree Growing">
+			<figcaption>Palm Tree Growing</figcaption>
+			</figure>
+		</section>
+		<section class="paragraph-container"> 
+			<article class="paragraph">			
+					<p class="box"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRH5GCq7Wrj3gDlQfI39TgRm3shqnHZsFYw&usqp=CAU" alt="inBahamas">
+						The Arecaceae is a family of perennial flowering plants in the monocot order Arecales. Their growth form can be climbers, shrubs, tree-like and stemless plants, all commonly known as palms. Those having a tree-like form are called palm trees.Currently 181 genera with around 2,600 species are known,most of them restricted to tropical and subtropical climates. Most palms are distinguished by their large, compound, evergreen leaves, known as fronds, arranged at the top of an unbranched stem. However, palms exhibit an enormous diversity in physical characteristics and inhabit nearly every type of habitat within their range, from rainforests to deserts.</p>
+						<blockquote>
+							<p>Palms</p>
+						</blockquote>
+						<p>
+						Palms are among the best known and most extensively cultivated plant families. They have been important to humans throughout much of history. Many common products and foods are derived from palms. In contemporary times, palms are also widely used in landscaping, making them one of the most economically important plants. In many historical cultures, because of their importance as food, palms were symbols for such ideas as victory, peace, and fertility.</p>
+						
+							
+			</article>
+			<article class="paragraph">			
+					<p class="box"> 
+
+						For inhabitants of cooler climates today, palms symbolize the tropics and vacations.
+						</p>
+						<blockquote>
+							<p>Etmology</p>
+						</blockquote>
+						<p>
+						The word Arecaceae is derived from the word areca with the suffix "-aceae". Areca is derived from Portuguese, via Malayalam aṭaykka, which is from Proto-Dravidian(“areca nut”). The suffix -aceae is the feminine plural of the Latin -āceus ("resembling").
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOMHSMfqY1O8_X_GKx2O-oQ2p8_J_tERD4Q&usqp=CAU" alt="Proto-Dravidian"> Whether as shrubs, tree-like, or vines, palms have two methods of growth: solitary or clustered. The common representation is that of a solitary shoot ending in a crown of leaves. This monopodial character may be exhibited by prostrate, trunkless, and trunk-forming members. Some common palms restricted to solitary growth include Washingtonia and Roystonea. Palms may instead grow in sparse though dense clusters. The trunk develops an axillary bud at a leaf node, usually near the base, from which a new shoot emerges.
+						
+					</p>		
+			</article>
+			<article class="paragraph">			
+					<p class="box"> 
+						Palms which are usually solitary may grow in clusters and vice versa. These aberrations suggest the habit operates on a single gene.
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkD96q5Ei7SkUdzfByVLVD-pYZEOBvUd2Kcw&usqp=CAU" alt="Morphology">alms have large, evergreen leaves that are either palmately ('fan-leaved') or pinnately ('feather-leaved') compound and spirally arranged at the top of the stem. The leaves have a tubular sheath at the base that usually splits open on one side at maturity.
+						</p>
+						<blockquote>
+							<p>Palm Morphology</p>
+						</blockquote>
+						<p> The inflorescence is a spadix or spike surrounded by one or more bracts or spathes that become woody at maturity. The flowers are generally small and white, radially symmetric, and can be either uni- or bisexual. The sepals and petals usually number three each, and may be distinct or joined at the base. The stamens generally number six, with filaments that may be separate, attached to each other, or attached to the pistil at the base. The fruit is usually a single-seeded drupe (sometimes berry-like)
+						
+					</p>		
+			</article>
+			<article class="paragraph">			
+					<p class="box"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMIZUkgCvcMh9Mv1vb_Gq3wx5B1jYzvTcoA&usqp=CAU"
+						alt="Range and habitat">
+						Most palms are native to tropical and subtropical climates. Palms thrive in moist and hot climates but can be found in a variety of different habitats. Their diversity is highest in wet, lowland forests. South America, the Caribbean, and areas of the south Pacific and southern Asia are regions of concentration. Colombia may have the highest number of palm species in one country. There are some palms that are also native to desert areas such as the Arabian peninsula and parts of northwestern Mexico. Only about 130 palm species naturally grow entirely beyond the tropics, mostly in humid lowland subtropical climates, in highlands in southern Asia, and along the rim lands of the Mediterranean Sea.
+						</p>
+						<blockquote>
+							<p>Monophyletic</p>
+						</blockquote>
+						<p>
+						The northernmost native palm is Chamaerops humilis, which reaches 44°N latitude along the coast of Liguria, Italy.In the southern hemisphere, the southernmost palm is the Rhopalostylis sapida, which reaches 44°S on the Chatham Islands where an oceanic climate prevails.[17] Cultivation of palms is possible north of subtropical climates, and some higher latitude locales such as Ireland, Scotland, England, and the Pacific Northwest feature a few palms in protected locations and microclimates.
+
+Palms inhabit a variety of ecosystems. More than two-thirds of palm species live in humid moist forests, where some species grow tall enough to form part of the canopy and shorter ones form part of the understory.[</p>
+						
+							
+			</article>
+			<article class="paragraph">			
+					<p class="box"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR8_vCXq8-2716u5awY0E7ermx-dybQbv33w&usqp=CAU" alt="Kind Of Palm">
+						Palms are a monophyletic group of plants, meaning the group consists of a common ancestor and all its descendants.[18] Extensive taxonomic research on palms began with botanist H.E. Moore, who organized palms into 15 major groups based mostly on general morphological characteristics. The following classification, proposed by N.W. Uhl and J. Dransfield in 1987, is a revision of Moore's classification that organizes palms into six subfamilies.</p>
+						<blockquote>
+							<p>Coryphoideae</p>
+						</blockquote>
+						<p>
+						The Coryphoideae are the most diverse subfamily, and are a paraphyletic group, meaning all members of the group share a common ancestor, but the group does not include all the ancestor's descendants. Most palms in this subfamily have palmately lobed leaves and solitary flowers with three, or sometimes four carpels. The fruit normally develops from only one carpel.</p>
+						
+							
+			</article>
+			<article class="paragraph">			
+					<p class="box"> 
+Subfamily Calamoideae includes the climbing palms, such as rattans. The leaves are usually pinnate; derived characters (synapomorphies) include spines on various organs, organs specialized for climbing, an extension of the main stem of the leaf-bearing reflexed spines, and overlapping scales covering the fruit and ovary.
+						</p>
+						<blockquote>
+							<p>Calamoideae</p>
+						</blockquote>
+						<p>
+						Subfamily Nypoideae contains only one species, Nypa fruticans,which has large, pinnate leaves. The fruit is unusual in that it floats, and the stem is dichotomously branched, also unusual in palms.
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-aOwI7HPYH-qGwZdTY8y58F9iK6XzxDCFg&usqp=CAU" alt="Nypoideae">
+						Subfamily Ceroxyloideae has small to medium-sized flowers, spirally arranged, with a gynoecium of three joined carpels.
+
+The Arecoideae are the largest subfamily, with six diverse tribes (Areceae, Caryoteae, Cocoseae, Geonomateae, Iriarteeae, and Podococceae) containing over 100 genera. All tribes have pinnate or bipinnate leaves and flowers arranged in groups of three, with a central pistillate and two staminate flowers.
+
+The Phytelephantoideae are a monoecious subfamily. Members of this group have distinct monopodial flower clusters. Other distinct features include a gynoecium with five to 10 joined carpels, and flowers with more than three parts per whorl. Fruits are multiple-seeded and have multiple parts.</p>
+						
+							
+			</article>
+		</section>
+		
+	</main>
+
+	<footer>
+		<footer>
+           Mehlika (s23021)
+    </footer>
+	</footer>
+	
+
+</body>
+</html>
