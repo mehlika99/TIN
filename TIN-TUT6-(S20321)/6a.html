@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6A</title>
+</head>
+<body>
+
+    <form>
+        <h3>Choose Temp you want to convert</h3> 
+        <select name="start" id="start" onchange="choosen()">
+            <option value="C" selected> Celcius </option>
+            <option value="F" >Fahrenheit</option>       
+        </select>   
+    <br>
+    <input type="number" id ="value" name="value" value="0" >
+    
+    <br><br>
+    <input type="button" value="Submit" onclick="convert()">
+    
+    </form>
+    <br><br>
+    <h3>Converted result will be below after you enter the values:) </h3> 
+    <span id="converted"></span>
+    <script src="6a.js"></script>
+</body>
+</html>
